@@ -1,0 +1,2 @@
+FROM qwen2.5
+PARAMETER num_ctx 16384
